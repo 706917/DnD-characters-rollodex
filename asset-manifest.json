@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactJS/DnD-characters-rollodex/static/css/main.2cc9076d.chunk.css",
-    "main.js": "/ReactJS/DnD-characters-rollodex/static/js/main.6b3cdd24.chunk.js",
-    "main.js.map": "/ReactJS/DnD-characters-rollodex/static/js/main.6b3cdd24.chunk.js.map",
-    "runtime-main.js": "/ReactJS/DnD-characters-rollodex/static/js/runtime-main.dc4108c4.js",
-    "runtime-main.js.map": "/ReactJS/DnD-characters-rollodex/static/js/runtime-main.dc4108c4.js.map",
-    "static/js/2.cc081af4.chunk.js": "/ReactJS/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js",
-    "static/js/2.cc081af4.chunk.js.map": "/ReactJS/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js.map",
-    "index.html": "/ReactJS/DnD-characters-rollodex/index.html",
-    "precache-manifest.11ce41218ea21e13a530442e11125403.js": "/ReactJS/DnD-characters-rollodex/precache-manifest.11ce41218ea21e13a530442e11125403.js",
-    "service-worker.js": "/ReactJS/DnD-characters-rollodex/service-worker.js",
-    "static/css/main.2cc9076d.chunk.css.map": "/ReactJS/DnD-characters-rollodex/static/css/main.2cc9076d.chunk.css.map",
-    "static/js/2.cc081af4.chunk.js.LICENSE.txt": "/ReactJS/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js.LICENSE.txt"
+    "main.css": "/DnD-characters-rollodex/static/css/main.2cc9076d.chunk.css",
+    "main.js": "/DnD-characters-rollodex/static/js/main.da29f78f.chunk.js",
+    "main.js.map": "/DnD-characters-rollodex/static/js/main.da29f78f.chunk.js.map",
+    "runtime-main.js": "/DnD-characters-rollodex/static/js/runtime-main.538af0bf.js",
+    "runtime-main.js.map": "/DnD-characters-rollodex/static/js/runtime-main.538af0bf.js.map",
+    "static/js/2.cc081af4.chunk.js": "/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js",
+    "static/js/2.cc081af4.chunk.js.map": "/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js.map",
+    "index.html": "/DnD-characters-rollodex/index.html",
+    "precache-manifest.30a08a5c6b56e79810684a0fa392c94f.js": "/DnD-characters-rollodex/precache-manifest.30a08a5c6b56e79810684a0fa392c94f.js",
+    "service-worker.js": "/DnD-characters-rollodex/service-worker.js",
+    "static/css/main.2cc9076d.chunk.css.map": "/DnD-characters-rollodex/static/css/main.2cc9076d.chunk.css.map",
+    "static/js/2.cc081af4.chunk.js.LICENSE.txt": "/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc4108c4.js",
+    "static/js/runtime-main.538af0bf.js",
     "static/js/2.cc081af4.chunk.js",
     "static/css/main.2cc9076d.chunk.css",
-    "static/js/main.6b3cdd24.chunk.js"
+    "static/js/main.da29f78f.chunk.js"
   ]
 }
