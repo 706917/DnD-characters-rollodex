@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b938b842cfe6776ae8f041af2f70105",
+    "revision": "680f88c7813465c843101638fa97d6fd",
     "url": "/DnD-characters-rollodex/index.html"
   },
   {
-    "revision": "16de26506a29e0d9d84c",
+    "revision": "9eff89272a523e858322",
     "url": "/DnD-characters-rollodex/static/css/main.2cc9076d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DnD-characters-rollodex/static/js/2.cc081af4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16de26506a29e0d9d84c",
-    "url": "/DnD-characters-rollodex/static/js/main.da29f78f.chunk.js"
+    "revision": "9eff89272a523e858322",
+    "url": "/DnD-characters-rollodex/static/js/main.6d0bde39.chunk.js"
   },
   {
     "revision": "e89384f581976dc0f9d6",

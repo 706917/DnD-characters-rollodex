@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DnD-characters-rollodex/precache-manifest.30a08a5c6b56e79810684a0fa392c94f.js"
+  "/DnD-characters-rollodex/precache-manifest.6a43d2434124616750875b22fc4979ae.js"
 );
 
 self.addEventListener('message', (event) => {
